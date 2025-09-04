@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>​🥋​ Guilherme Pita</h1>
+  <h1>​🥋​ Guilherme Pereira</h1>
    <img src="https://media.tenor.com/kfZpKhBfjFAAAAAM/zenitsu.gif" alt="Tanjiro Kamado" width="330" />
 </div>
 
@@ -9,11 +9,12 @@
   <strong>Desenvolvedor FullStack</strong>
 </div>
 <br>
-👾​ Desenvolvedor focado em resolver problemas em um instante
+👾​ Desenvolvedor focado em resolver problemas em um instante<br>
 ​🧠​ Em eterno aprendizagem
-<br>
-​👨🏼‍💻​ Olá, meu nome é Guilherme tenho 17 anos e moro em Guaiçara/SP, estou iniciando o ensino medio na ETEC, e junto com o curso
+<br><br>
+​👨🏼‍💻​ Olá, meu nome é Guilherme tenho 16 anos e moro em Guaiçara/SP, estou iniciando o ensino medio na ETEC, e junto com o curso
 Técnico de Analise de Desenvolvimento de Sistemas
+<br><br>
 
 Focado em Fullstack
 
@@ -41,11 +42,15 @@ Focado em Fullstack
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-pacman.svg">
-    <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-pacman.svg">
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<div>
   </picture>
 </div>
- 
 
+---
+
+ 
