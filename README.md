@@ -1,6 +1,7 @@
+# ❄️​ Guilherme
+
 <div align="center">
-  <h1>​🥋​ Guilherme Pereira</h1>
-   <img src="https://media.tenor.com/kfZpKhBfjFAAAAAM/zenitsu.gif" alt="Tanjiro Kamado" width="330" />
+   <img src="https://media.tenor.com/kfZpKhBfjFAAAAAM/zenitsu.gif" alt="Tanjiro Kamado" width="400" />
 </div>
 
 ---
@@ -13,7 +14,7 @@
 ​🧠​ Em eterno aprendizagem
 <br><br>
 ​👨🏼‍💻​ Olá, meu nome é Guilherme tenho 16 anos e moro em Guaiçara/SP, estou iniciando o ensino medio na ETEC, e junto com o curso
-Técnico de Analise de Desenvolvimento de Sistemas
+Técnico de Analise de Desenvolvimento de Sistemas, Atualmente estou cursando o CC50 de Harvard.
 <br><br>
 
 Focado em Fullstack
@@ -27,6 +28,7 @@ Focado em Fullstack
 <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="BootStrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
