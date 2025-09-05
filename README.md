@@ -1,7 +1,7 @@
 # ❄️​ Guilherme
 
 <div align="center">
-   <img src="https://media.tenor.com/kfZpKhBfjFAAAAAM/zenitsu.gif" alt="Tanjiro Kamado" width="400" />
+   <img src="https://media.tenor.com/PJJC_JF6y40AAAAM/ippo-makunouchi-ippo.gif" alt="Ippo Makunouchi" width="320" />
 </div>
 
 ---
