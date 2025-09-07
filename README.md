@@ -11,9 +11,9 @@
 </div>
 <br>
 👾​ Desenvolvedor focado em resolver problemas em um instante<br>
-​🧠​ Em eterno aprendizagem
+​🧠​ Em Eterno Aprendizado
 <br><br>
-​👨🏼‍💻​ Olá, meu nome é Guilherme tenho 16 anos e moro em Guaiçara/SP, estou iniciando o ensino medio na ETEC, e junto com o curso
+​👨🏼‍💻​ Olá, meu nome é Guilherme tenho 16 anos e moro em Dubai, estou iniciando o ensino medio na ETEC, e junto com o curso
 Técnico de Analise de Desenvolvimento de Sistemas, Atualmente estou cursando o CC50 de Harvard.
 <br><br>
 
