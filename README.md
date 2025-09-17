@@ -1,7 +1,7 @@
 # ❄️​ Guilherme
 
 <div align="center">
-   <img src="https://media1.tenor.com/m/Ar4IZwM6hyIAAAAd/demon-slayer-tanjiro.gif" alt="Tanjiro Kamado" width="320" />
+   <img src="https://media1.tenor.com/m/oKcauvDUnMwAAAAC/miyata-ichiro-miyata-x-ippo.gif" alt="Miyata Ichiro" width="320" />
 </div>
 
 ---
