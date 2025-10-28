@@ -1,7 +1,7 @@
 # ❄️​ Guilherme
 
 <div align="center">
-   <img src="https://media.tenor.com/itjFesV8_RUAAAAm/soulja-boy-pepe.webp" alt="Ippo Makounouchi" width="320" />
+   <img src="https://media.tenor.com/itjFesV8_RUAAAAm/soulja-boy-pepe.webp" alt="Ippo Makounouchi" width="240" />
 </div>
 
 ---
