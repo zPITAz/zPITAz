@@ -1,7 +1,7 @@
 # ❄️​ Guilherme
 
 <div align="center">
-   <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" alt="Ippo Makounouchi" width="320" />
+   <img src="https://media.tenor.com/itjFesV8_RUAAAAm/soulja-boy-pepe.webp" alt="Ippo Makounouchi" width="320" />
 </div>
 
 ---
